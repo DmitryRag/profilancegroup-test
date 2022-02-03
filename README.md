@@ -19,5 +19,5 @@
 - Результат работы предоставлен в виде ссылки на git репозиторий. Предоставлены логин и пароль 2 тестовых пользователей.
 
 - Тестовые пользователи:
-    - 1. email: 'email@mail.ru', password: 'password'
-    - 2. email: 'abc@mail.ru', password: 'password'
+    - email: 'email@mail.ru', password: 'password'
+    - email: 'abc@mail.ru', password: 'password'
